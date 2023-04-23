@@ -1,0 +1,3 @@
+[submodule "src/mfes/react"]
+	path = src/mfes/react
+	url = https://github.com/GuusDb/react-mfe
